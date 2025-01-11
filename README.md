@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">**Hi👋! I'm Silvyashree</h1>
+<h1 align="center">Hi👋! I'm Silvyashree</h1>
 
 Here are some ideas to get you started:
 
@@ -15,10 +15,16 @@ Basic Python
 SQL
 
 Html & CSS Bootstrap
+
 📫 How to reach me: <br>[!Linkedin](www.linkedin.com/in/silvya-shree-m-s-489bba1b6)
 
-⚡ Fun fact: I love contributing to open-source projects and am always open to collaborate!! Feel free to reachout: silvyashree@gmail.com
+
+⚡ Fun fact: I love contributing to open-source projects and am always open to collaborate!! Feel free to reachout:
+
+silvyashree@gmail.com
+
 I code in <br>
+
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=lXPUSRCongH1&format=png&color=000000"/>
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
