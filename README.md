@@ -1,4 +1,7 @@
-<img align="center" width="70%" title="a title" alt="Alt text" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112(https://pin.it/10Saazdyz)(https://pin.it/j7lFHGIku)(https://pin.it/3tC6KWUK9)">
+<a href="https://pin.it/10Saazdyz">
+  <img align="center" width="70%" title="A title" alt="Alt text" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+</a>
+
 
 
 
