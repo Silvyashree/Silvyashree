@@ -7,9 +7,13 @@
 Here are some ideas to get you started:
 
 🌱 I’m currently learning Basic Django Frameworks
+
 💬 Ask me about:
+
 Basic Python
+
 SQL
+
 Html & CSS Bootstrap
 📫 How to reach me: <br>[!Linkedin](www.linkedin.com/in/silvya-shree-m-s-489bba1b6)
 
