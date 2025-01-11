@@ -11,9 +11,7 @@ Here are some ideas to get you started:
 Basic Python
 SQL
 Html & CSS Bootstrap
-
-📫 How to reach me:<br>[!Linkedin] (www.linkedin.com/in/silvya-shree-m-s-489bba1b6)
-!Linkedin
+📫 How to reach me: <br>[!Linkedin](www.linkedin.com/in/silvya-shree-m-s-489bba1b6)
 
 ⚡ Fun fact: I love contributing to open-source projects and am always open to collaborate!! Feel free to reachout: silvyashree@gmail.com
 I code in <br>
