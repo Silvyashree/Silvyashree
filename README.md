@@ -3,43 +3,58 @@
 
 
 
-<h1 align="center">Hi👋! I'm Silvyashree</h1>
-
-Here are some ideas to get you started:
-
-🌱 I’m currently learning Basic Django Frameworks
-
-💬 Ask me about:
-
-Basic Python
-
-SQL
-
-Html & CSS Bootstrap
-
-📫 How to reach me: <br>[!Linkedin](www.linkedin.com/in/silvya-shree-m-s-489bba1b6)
 
 
-⚡ Fun fact: I love contributing to open-source projects and am always open to collaborate!! Feel free to reachout:
+<h1 align="center">Hi 👋 I'm Silvya Shree M S</h1>
+<h3 align="center">Data & Business Analyst | MCA Graduate | Bangalore, India</h3>
 
-silvyashree@gmail.com
+---
 
+### 👩‍💻 About Me
 
+- 🎓 MCA Graduate from **Dayananda Sagar College of Engineering**
+- 💼 Interned as **Data Analyst** at Open Financial Technologies & **Data Visualization Intern** at Kanini Software Solutions
+- 📊 Passionate about turning raw data into **actionable business insights**
+- 🌱 Currently upskilling in **Full Stack Python & Django**
+- 🔍 Open to **Data Analyst, Business Analyst & BI Analyst** roles
+- 📩 Reach me at **silvyashree@gmail.com**
 
+---
 
+### 🛠️ Skills & Tools
 
+**Languages & Querying**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-I code in <br>
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=lXPUSRCongH1&format=png&color=000000"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"/>
+**Data & Visualization**
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
+---
 
-IDE and Tools I Use<br>
-<img height="50" width="50" src="https://code.visualstudio.com/assets/images/code-stable.png"/>
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000"/> 
+### 📂 Featured Projects
 
+| Project | Tools | Description |
+|---|---|---|
+| 🎬 Movie Success Prediction | Python, SQL, Pandas, EDA | Analyzed 2000+ movies to predict commercial success |
+| 📊 Employee Performance Dashboard | Power BI, Excel, DAX | HR dashboard tracking performance & training metrics |
 
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/silvya-shree)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:silvyashree@gmail.com)
+
+---
+
+<p align="center">⭐ Feel free to explore my repositories and connect!</p>
 <!---
 Silvyashree/Silvyashree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
